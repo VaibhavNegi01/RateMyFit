@@ -43,7 +43,7 @@ Follow these steps to run the project locally on your machine:
 1. *Clone the Repository*
 
    ```bash
-   git clone 
+   git clone https://github.com/VaibhavNegi01/RateMyFit.git
    cd ratemyfit
    ```
 2. *Copy Environment Variables*
@@ -86,5 +86,6 @@ Follow these steps to run the project locally on your machine:
 
 
 ## 🔗 Contact
+
 
 
